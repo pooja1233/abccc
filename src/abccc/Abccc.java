@@ -18,6 +18,7 @@ public class Abccc {
         // TODO code application logic here
         
         System.out.println("hi");
+         System.out.println("2nd");
     }
     
 }
